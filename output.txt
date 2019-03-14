@@ -1,0 +1,406 @@
+jprice13@ubuntu:~/Desktop/Lab2$ ./lab2
+Please enter the name of the words input file ./input/words.txt
+Please enter the name of the movies input file ./input/movies.txt
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 1
+Operating-9, Systems-7, Concepts-8, 8th-3, Edition-7, Andy-4, Weir-4, 
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 2
+Enter a word: 
+Hello
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 1
+Hello-5, Operating-9, Systems-7, Concepts-8, 8th-3, Edition-7, Andy-4, Weir-4, 
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 3
+Enter a word: 
+Goodbye
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 1
+Hello-5, Operating-9, Systems-7, Concepts-8, 8th-3, Edition-7, Andy-4, Weir-4, Goodbye-7, 
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 4
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 1
+8th-3, Andy-4, Concepts-8, Edition-7, Goodbye-7, Hello-5, Operating-9, Systems-7, Weir-4, 
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 5
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 1
+Andy-4, Concepts-8, Edition-7, Goodbye-7, Hello-5, Operating-9, Systems-7, Weir-4, 
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 6
+Enter a word: 
+Goodbye
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 1
+Andy-4, Concepts-8, Edition-7, Hello-5, Operating-9, Systems-7, Weir-4, 
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 7
+Fast and Furious 7
+ -Actors- 
+- Vin Diesel 
+- Paul Walker 
+Star Wars
+ -Actors- 
+- Harrison Ford 
+- Carrie Fisher 
+- Mark Hamill 
+Gone Girl
+ -Actors- 
+- Ben Affleck 
+
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 8
+Enter a Movie title: 
+Yo
+Enter how many actors are in the movie: 
+1
+Enter the first and last name of an actor: 
+Yo Yo
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 7
+Yo
+ -Actors- 
+- Yo Yo 
+Fast and Furious 7
+ -Actors- 
+- Vin Diesel 
+- Paul Walker 
+Star Wars
+ -Actors- 
+- Harrison Ford 
+- Carrie Fisher 
+- Mark Hamill 
+Gone Girl
+ -Actors- 
+- Ben Affleck 
+
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 9
+Enter a Movie title: 
+No
+Enter how many actors are in the movie: 
+1
+Enter the first and last name of an actor: 
+No No
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 7
+Yo
+ -Actors- 
+- Yo Yo 
+Fast and Furious 7
+ -Actors- 
+- Vin Diesel 
+- Paul Walker 
+Star Wars
+ -Actors- 
+- Harrison Ford 
+- Carrie Fisher 
+- Mark Hamill 
+Gone Girl
+ -Actors- 
+- Ben Affleck 
+No
+ -Actors- 
+- No No 
+
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 10
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 7
+Yo
+ -Actors- 
+- Yo Yo 
+Fast and Furious 7
+ -Actors- 
+- Vin Diesel 
+- Paul Walker 
+Star Wars
+ -Actors- 
+- Harrison Ford 
+- Carrie Fisher 
+- Mark Hamill 
+Gone Girl
+ -Actors- 
+- Ben Affleck 
+
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 11
+Enter a Movie title: 
+Gone Girl
+Enter how many actors are in the movie: 
+1
+Enter the first and last name of an actor: 
+Ben Affleck
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 7
+Yo
+ -Actors- 
+- Yo Yo 
+Fast and Furious 7
+ -Actors- 
+- Vin Diesel 
+- Paul Walker 
+Star Wars
+ -Actors- 
+- Harrison Ford 
+- Carrie Fisher 
+- Mark Hamill 
+
+1) Print the list - Word
+2) Add First - Word
+3) Add Last - Word
+4) Sort - Word
+5) Remove First - Word
+6) Remove Item - Word
+============================
+7) Print the list - Movie
+8) Add First - Movie
+9) Add Last - Movie
+10) Remove Last - Movie
+11) Remove Item - Movie
+12) Quit
+Choice --> 12
+Program Ended
+jprice13@ubuntu:~/Desktop/Lab2$ 
